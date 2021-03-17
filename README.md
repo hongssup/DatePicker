@@ -1,7 +1,6 @@
 # DatePicker
 
-![IMG_3131](https://user-images.githubusercontent.com/54879476/111451609-f4dc1a00-8754-11eb-81e8-8ee36431a03a.PNG)
-<img src=“https://user-images.githubusercontent.com/54879476/111451609-f4dc1a00-8754-11eb-81e8-8ee36431a03a.PNG” width=“320”>
+![datePicker](https://user-images.githubusercontent.com/54879476/111478606-93777380-8773-11eb-9546-8bb64327730c.png)
 
 ## Adding DatePicker in UITableVew cell 
 
